@@ -1,0 +1,21 @@
+.container {
+  max-width: 400px !important;
+}
+
+.skip {
+  margin-bottom: 20px;
+  color: white;
+  border: none;
+  background-color: #4285f4;
+  width: 100px;
+  padding: 5px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+
+  margin-left: 130px;
+}
+
+.skip:hover {
+  background-color: blue;
+}

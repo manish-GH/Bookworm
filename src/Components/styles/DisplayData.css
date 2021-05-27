@@ -1,0 +1,53 @@
+ul {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item {
+  background-color: rgb(240, 240, 240);
+  width: 17rem;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.image {
+  height: 14rem;
+  width: 9rem;
+  margin: 5px 0;
+}
+
+.book {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.author {
+  font-size: 0.9rem;
+}
+
+.price {
+  font-size: 1.2rem;
+}
+
+.add-to-cart-btn {
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+}
+
+.add-to-cart-btn:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,50 @@
+.navbar-container nav {
+  background: #030544;
+  width: 100%;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav h2 {
+  color: #fff;
+}
+
+nav button {
+  text-decoration: none;
+  width: 86px;
+  padding: 5px 0;
+  background: #030544;
+  color: white;
+  border: none;
+}
+
+nav button:hover {
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+}
+
+.store {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.store:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.cart-icon {
+  color: white;
+  margin-right: 6px;
+}
+
+@media (max-width: 450px) {
+  .navbar-right {
+    display: flex;
+  }
+}
