@@ -2,7 +2,7 @@
 
 Bookworm is an eCommerce app developed using ReactJs and Firebase
 
-**Click [Here](https://frosty-bassi-11e2e7.netlify.app/) to give it a try or watch the [Demo](https://youtu.be/bPrIb2CbiEA)**
+**Click [Here](https://bookworm-ecommerce-app.netlify.app/) to give it a try or watch the [Demo](https://youtu.be/bPrIb2CbiEA)**
 
 
 
